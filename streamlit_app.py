@@ -33,16 +33,6 @@ def main():
     st.markdown("Integrating solar and wind power seamlessly...")
 
     # Placeholder for Sign Up form
-    st.subheader("Sign Up")
-    email = st.text_input("Email")
-    username = st.text_input("Username")
-    password = st.text_input("Password", type="password")
-    confirm_password = st.text_input("Confirm Password", type="password")
-
-    # Placeholder for Sign In form
-    st.subheader("Sign In")
-    signin_username = st.text_input("Username")
-    signin_password = st.text_input("Password", type="password")
 
     # Placeholder for Grid Management content
     st.subheader("Grid Management")
